@@ -6,6 +6,15 @@
 	<false/>
 	<key>destination</key>
 	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/zhouyikai129/hps/blob/master/sed.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://www.app.img1</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.app.img2</string>
+	</dict>
 	<key>method</key>
 	<string>development</string>
 	<key>provisioningProfiles</key>
@@ -22,6 +31,6 @@
 	<key>teamID</key>
 	<string>GPDX9GUGVD</string>
 	<key>thinning</key>
-	<string>iPhone10,3</string>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>
