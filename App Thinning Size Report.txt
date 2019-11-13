@@ -1,0 +1,22 @@
+
+App Thinning Size Report for All Variants of sed
+
+Variant: sed-4E98D805-348E-4AC9-BBA3-3DC13B3F3DEF.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 10.0], [device: iPhone9,2, os-version: 10.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone10,2, os-version: 11.0], and [device: iPhone10,3, os-version: 11.0]
+App + On Demand Resources size: 8.3 MB compressed, 21 MB uncompressed
+App size: 8.3 MB compressed, 21 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sed-7666EC60-E68D-4CCF-A98E-B5777D63956E.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], and [device: iPhone11,4, os-version: 13.0]
+App + On Demand Resources size: 8.3 MB compressed, 21 MB uncompressed
+App size: 8.3 MB compressed, 21 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: sed-9E5A4D53-D3E7-48B8-84BD-1C7D68D10C4B.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12.2], [device: iPhone9,4, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,5, os-version: 12.2], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,4, os-version: 12.0], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,6, os-version: 12.2], and [device: iPhone11,6, os-version: 12.0]
+App + On Demand Resources size: 8.3 MB compressed, 21 MB uncompressed
+App size: 8.3 MB compressed, 21 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
